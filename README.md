@@ -1,10 +1,8 @@
 # Calculadora-Simples
 ![preview calculator](https://github.com/ezequielsc/Calculadora-Simples/blob/main/2023-08-15_20h06_24.png)
-Descrição: Este projeto é uma calculadora simples criada usando HTML, CSS e JavaScript. Com uma interface amigável, a calculadora permite que os usuários realizem operações básicas de adição, subtração, multiplicação e divisão de maneira rápida e intuitiva.
+**Descrição:** Este projeto é uma calculadora simples criada usando HTML, CSS e JavaScript. Com uma interface amigável, a calculadora permite que os usuários realizem operações básicas de adição, subtração, multiplicação e divisão de maneira rápida e intuitiva.
 ** Calculadora Simples em HTML, CSS e JavaScript**
 
-**Descrição:**
-Este projeto é uma calculadora simples criada usando HTML, CSS e JavaScript. Com uma interface amigável, a calculadora permite que os usuários realizem operações básicas de adição, subtração, multiplicação e divisão de maneira rápida e intuitiva.
 
 **Recursos Principais:**
 - Interface de usuário limpa e simples.
